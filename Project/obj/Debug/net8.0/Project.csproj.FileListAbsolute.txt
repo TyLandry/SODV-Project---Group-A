@@ -1,0 +1,14 @@
+C:\Users\Ty\Desktop\SODV1202\Project\obj\Debug\net8.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ty\Desktop\SODV1202\Project\obj\Debug\net8.0\Project.AssemblyInfoInputs.cache
+C:\Users\Ty\Desktop\SODV1202\Project\obj\Debug\net8.0\Project.AssemblyInfo.cs
+C:\Users\Ty\Desktop\SODV1202\Project\obj\Debug\net8.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\Ty\Desktop\SODV1202\Project\bin\Debug\net8.0\Project.exe
+C:\Users\Ty\Desktop\SODV1202\Project\bin\Debug\net8.0\Project.deps.json
+C:\Users\Ty\Desktop\SODV1202\Project\bin\Debug\net8.0\Project.runtimeconfig.json
+C:\Users\Ty\Desktop\SODV1202\Project\bin\Debug\net8.0\Project.dll
+C:\Users\Ty\Desktop\SODV1202\Project\bin\Debug\net8.0\Project.pdb
+C:\Users\Ty\Desktop\SODV1202\Project\obj\Debug\net8.0\Project.dll
+C:\Users\Ty\Desktop\SODV1202\Project\obj\Debug\net8.0\refint\Project.dll
+C:\Users\Ty\Desktop\SODV1202\Project\obj\Debug\net8.0\Project.pdb
+C:\Users\Ty\Desktop\SODV1202\Project\obj\Debug\net8.0\Project.genruntimeconfig.cache
+C:\Users\Ty\Desktop\SODV1202\Project\obj\Debug\net8.0\ref\Project.dll
