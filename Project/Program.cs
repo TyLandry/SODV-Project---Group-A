@@ -10,7 +10,7 @@ namespace ProjectSODV
             game.Start();
         }
     }
-    public class Player
+    public class Player //testt
     {
         public string Name { get; set; }
         public char Symbol { get; set; }
